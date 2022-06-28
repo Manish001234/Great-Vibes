@@ -1,0 +1,31 @@
+.container{
+  width: 20%;
+  height: 520px;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 3%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.inside{
+  width: 60%;
+  height: 300px;
+  /* border: 1px solid brown; */
+  margin: auto;
+}
+input{
+  height: 22px;
+  border-radius: 6px;
+}
+.form-label {
+  color: gray;
+}
+.submitButton{
+  margin: 20px 35px;
+  width: 50%;
+  height: 30px;
+  background-color: white;
+}
+.submitButton:hover{
+ background-color: black;
+ color: white;
+}
